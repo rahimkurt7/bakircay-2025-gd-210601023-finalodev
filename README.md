@@ -1,7 +1,7 @@
 # bakircay-2025-gd-210601023-finalodev
  final proje
  README.md
-Rahim KURt
+Rahim KURT
  webgl oyun linki :  https://play.unity.com/en/games/fbe212c2-9c31-41a0-ae35-52a3bf8add2c/webgl-builds 
 210601023
 
