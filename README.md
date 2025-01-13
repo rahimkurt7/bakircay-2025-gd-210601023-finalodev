@@ -1,7 +1,8 @@
 # bakircay-2025-gd-210601023-finalodev
  final proje
  README.md
-
+Rahim KURt
+ webgl oyun linki :  https://play.unity.com/en/games/fbe212c2-9c31-41a0-ae35-52a3bf8add2c/webgl-builds 
 210601023
 
 Destruction Table, Unity kullanılarak geliştirilmiş eğlenceli bir meyve eşleştirme oyunudur. Oyuncuların, sınırlı bir süre içerisinde aynı türdeki meyveleri eşleştirerek puan kazandığı bu oyun, strateji ve refleks gerektirir. Oyunun amacı, süre dolmadan olabildiğince yüksek puan toplamaktır.
